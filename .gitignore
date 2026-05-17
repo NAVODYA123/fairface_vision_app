@@ -21,9 +21,5 @@ Thumbs.db
 # Streamlit cache
 .streamlit/secrets.toml
 
-# Large training artifacts (optional)
-*.pt
-*.pth
-
 # Logs
 *.log
